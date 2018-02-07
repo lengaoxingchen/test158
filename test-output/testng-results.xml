@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4151" started-at="2018-02-07T08:37:55Z" finished-at="2018-02-07T08:37:59Z">
+  <suite name="Default suite" duration-ms="3875" started-at="2018-02-07T08:56:20Z" finished-at="2018-02-07T08:56:24Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4151" started-at="2018-02-07T08:37:55Z" finished-at="2018-02-07T08:37:59Z">
+    <test name="Default test" duration-ms="3875" started-at="2018-02-07T08:56:20Z" finished-at="2018-02-07T08:56:24Z">
       <class name="com.example.test.FormTest">
-        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="2397" started-at="2018-02-07T16:37:56Z" data-provider="feeder" finished-at="2018-02-07T16:37:59Z">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="2104" started-at="2018-02-07T16:56:22Z" data-provider="feeder" finished-at="2018-02-07T16:56:24Z">
           <params>
             <param index="0">
               <value>
@@ -28,7 +28,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doGet -->
-        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="50" started-at="2018-02-07T16:37:59Z" data-provider="feeder" finished-at="2018-02-07T16:37:59Z">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="48" started-at="2018-02-07T16:56:24Z" data-provider="feeder" finished-at="2018-02-07T16:56:24Z">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doGet -->
-        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="57" started-at="2018-02-07T16:37:59Z" data-provider="feeder" finished-at="2018-02-07T16:37:59Z">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="59" started-at="2018-02-07T16:56:24Z" data-provider="feeder" finished-at="2018-02-07T16:56:24Z">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doGet -->
-        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="39" started-at="2018-02-07T16:37:59Z" data-provider="feeder" finished-at="2018-02-07T16:37:59Z">
+        <test-method status="PASS" signature="doGet(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.example.test.FormTest@27f53ee3]" name="doGet" duration-ms="19" started-at="2018-02-07T16:56:24Z" data-provider="feeder" finished-at="2018-02-07T16:56:24Z">
           <params>
             <param index="0">
               <value>

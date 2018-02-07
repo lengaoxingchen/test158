@@ -1,7 +1,5 @@
 package com.example.test;
 
-
-
 import java.net.URI;
 
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -14,7 +12,6 @@ import org.databene.benerator.anno.Source;
 import org.databene.feed4testng.FeedTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 
 public class FormTest extends FeedTest {
 	@Test(dataProvider="feeder")
